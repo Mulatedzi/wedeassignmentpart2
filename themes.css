@@ -1,0 +1,32 @@
+body{
+    background-color: lightslategray;
+}
+li{
+    color: rgb(51, 17, 242);
+}
+h2{
+    color: red;
+}
+h1{
+    color: khaki;
+}
+a{
+    color: rgb(14, 178, 184);
+    padding-inline: syntax;
+    
+}
+p{
+    color: antiquewhite;
+}
+button{
+    background-color: aquamarine;
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+}
